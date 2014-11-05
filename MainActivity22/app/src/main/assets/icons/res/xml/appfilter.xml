@@ -1,16 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <!-- define masks. Meow <3 -->
-    <iconback
-        img1="bottom"
-        img2="bottom1"
-        img3="bottom2"
-        img4="bottom3"
-        img5="bottom4"
-        />
-
-    <!-- This scales the images to fit into iconback -->
-    <scale factor="0.6" />
 
     <!-- NOVA LAUNCHER STUFF -->
 		<item component="ComponentInfo{com.adobe.reader/com.adobe.reader.AdobeReader}" drawable="com_adobe_reader"/>
